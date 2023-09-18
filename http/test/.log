@@ -1,0 +1,16 @@
+[INFO] {125:../TcpServer.hpp} Get New Link! IP:[0.0.0.0] Port:[0]
+[INFO] {41:../TcpServer.hpp} Tcp Server Init Success!
+[INFO] {31:../TcpServer.hpp} Singleton Tcp Server Create Success! 0x56448543beb0
+[WARNING] {25:../Util.hpp} client closed on fd [6]!
+[INFO] {125:../TcpServer.hpp} Get New Link! IP:[0.0.0.0] Port:[0]
+[INFO] {41:../TcpServer.hpp} Tcp Server Init Success!
+[INFO] {31:../TcpServer.hpp} Singleton Tcp Server Create Success! 0x55ed07920eb0
+[ERROR] {../Util.hpp:30} (Bad file descriptor)
+[ERROR] {../TcpServer.hpp:49} (Invalid argument)
+[INFO] {125:../TcpServer.hpp} Get New Link! IP:[0.0.0.0] Port:[0]
+[INFO] {41:../TcpServer.hpp} Tcp Server Init Success!
+[INFO] {31:../TcpServer.hpp} Singleton Tcp Server Create Success! 0x55c0c600beb0
+[INFO] {64:../TcpServer.hpp} Singleton Tcp Server Destroy Success!
+[INFO] {127:../TcpServer.hpp} Get New Link! IP:[127.0.0.1] Port:[57090] SOCK:[6]
+[INFO] {44:../TcpServer.hpp} Tcp Server Init Success!
+[INFO] {32:../TcpServer.hpp} Singleton Tcp Server Create Success! 0x55f505a77eb0

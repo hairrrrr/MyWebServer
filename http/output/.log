@@ -1,0 +1,3 @@
+[error_code] {../log.hpp:72} (Address already in use)
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffcc1a3a2a0]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x556f35877eb0

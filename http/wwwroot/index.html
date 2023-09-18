@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="css/all.css"/>
+    <script src="js/my.js"></script>
+    <script>
+        // 1、获得焦点，内容为空，tip默认提示
+        // 2、失去焦点，内容为空，tip为隐藏
+        // 3、其他情况（按键抬起，失去焦点且内容不为空，或最后表单总验证）
+        //    按键抬起为空，报错，不能为空
+        //    内容匹配，成功
+        //    内容不匹配，失败
+        // 4、密码要进行安全等级检测，含数字、字母、特殊字符为强，两种为中，一种为弱
+        // 5、确认密码失去焦点的时候就要验证是否一致
+    </script>
+</head>
+<body>
+    <div class="container">
+    	<!--京东注册模块-->
+    	<div class="register">
+
+			<form action="/calculator_cgi" method="post">
+				
+				<div class="register-box">
+
+					<div class="box default">
+						<label for="userName">运&nbsp;算&nbsp;数&nbsp;1</label>
+						<input type="text" name="a"/>
+						<i></i>
+					</div>
+
+				</div>
+
+
+				<div class="register-box">
+
+					<div class="box default">
+						<label for="pwd2">运&nbsp;算&nbsp;符</label>
+						<input type="text" name="op"  />
+						<i></i>
+					</div>
+				
+				</div>
+
+
+				<div class="register-box">
+
+					<div class="box default">
+						<label for="pwd">运&nbsp;算&nbsp;数&nbsp;2</label>
+						<input type="text" name="b" />
+						<i></i>
+					</div>
+					
+				</div>
+		
+
+				<button id="btn">计算</button>	
+
+
+			</form>
+    			
+			<i></i>
+				
+		</div>
+
+
+		<div class="register">
+
+			<form action="/show_resume" method="get">
+				
+				<div class="register-box">
+
+					<div class="box default">
+						<label for="pwd">获取谁的简历？</label>
+						<input type="text" name="name" placeholder="wxc"/>
+						<i></i>
+					</div>
+				</div>
+
+				<button id="btn">获取</button>	
+
+			</form>
+		</div>
+
+    </div>
+
+	<div style="text-align:center;">
+<!-- <p><a href="http://www.cssmoban.com/" target="_blank">模板之家</a></p> -->
+</div>
+</body>
+</html>

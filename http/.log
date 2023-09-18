@@ -1,0 +1,400 @@
+[DEBUG] {74:HttpTask.hpp} uri_path: [/] argument: [name=wangxiaochuan&password=hao123]
+[DEBUG] {94:Util.hpp} Get Block: total = [10] read = [10] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 10
+[DEBUG] {21:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[42514] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffc3e166d50]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x557ea668beb0
+[DEBUG] {74:HttpTask.hpp} uri_path: [/a/b/wxc_resume.html] argument: [name=wangxiaochuan&password=hao123]
+[DEBUG] {94:Util.hpp} Get Block: total = [10] read = [10] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 10
+[DEBUG] {21:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[34420] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffea8c35ce0]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x5626ddb71eb0
+[DEBUG] {74:HttpTask.hpp} uri_path: [/] argument: [name=wangxiaochuan&passwd=hao123]
+[DEBUG] {94:Util.hpp} Get Block: total = [32] read = [32] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 32
+[DEBUG] {21:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[28854] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7fff925e4d80]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x55f46283ceb0
+[DEBUG] {74:HttpTask.hpp} uri_path: [/] argument: [name=wangxiaochuan&passwd=hao123]
+[DEBUG] {94:Util.hpp} Get Block: total = [32] read = [32] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 32
+[DEBUG] {21:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[31530] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7fff3057be00]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x55b8efaabeb0
+[DEBUG] {74:HttpTask.hpp} uri_path: [/a] argument: [name=wangxiaochuan&passwd=hao123]
+[DEBUG] {94:Util.hpp} Get Block: total = [32] read = [32] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 32
+[DEBUG] {21:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[18126] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffdfcee32b0]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x5594bc6c8eb0
+[DEBUG] {74:HttpTask.hpp} uri_path: [/a] argument: [name=wangxiaochuan&passwd=hao123]
+[DEBUG] {94:Util.hpp} Get Block: total = [32] read = [32] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 32
+[DEBUG] {21:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[8750] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffd170c0a60]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x562556a23eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [684] isCgi: [0]
+[DEBUG] {82:HttpTask.hpp} uri_path: [/] argument: []
+[DEBUG] {94:Util.hpp} Get Block: total = [12] read = [12] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 12
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[21687] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffcfdd94a80]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x560694da6eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [684] isCgi: [0]
+[DEBUG] {82:HttpTask.hpp} uri_path: [/] argument: [a=10&op=+&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [12] read = [12] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 12
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[31515] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffd9a66b1b0]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x563eb1752eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [684] isCgi: [0]
+[DEBUG] {82:HttpTask.hpp} uri_path: [/] argument: [a=10&op=/&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [15] read = [15] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 15
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[6731] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffc5ba1da90]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x56074fd21eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/abc/wxc] file_size: [0] isCgi: [0]
+[ERROR] {HttpTask.hpp:171} (No such file or directory)
+[DEBUG] {82:HttpTask.hpp} uri_path: [/abc/wxc] argument: [a=10&op=/&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [15] read = [15] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 15
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[25023] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffe5cee5bc0]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x55bdad8a5eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/wxc_resume.html] file_size: [45688] isCgi: [0]
+[DEBUG] {82:HttpTask.hpp} uri_path: [/wxc_resume.html] argument: [a=10&op=/&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [15] read = [15] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 15
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[19953] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffde214bd00]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x5595f2655eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/httpserver] file_size: [0] isCgi: [1]
+[DEBUG] {82:HttpTask.hpp} uri_path: [/httpserver] argument: [a=10&op=/&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [15] read = [15] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 15
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[22287] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffd089a2400]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x55728fb01eb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/httpserver] file_size: [0] isCgi: [1]
+[DEBUG] {82:HttpTask.hpp} uri_path: [/httpserver] argument: [a=10&op=+&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [12] read = [12] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 12
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[21505] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffe78347230]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x560bb492aeb0
+[DEBUG] {91:HttpTask.hpp} After adjust: uri_path: [wwwroot/httpserver.] file_size: [0] isCgi: [0]
+[ERROR] {HttpTask.hpp:171} (No such file or directory)
+[DEBUG] {82:HttpTask.hpp} uri_path: [/httpserver.] argument: [a=10&op=+&b=100]
+[DEBUG] {94:Util.hpp} Get Block: total = [12] read = [12] left = [0]
+[DEBUG] {86:Protocol.hpp} Request Body Size: 12
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {125:TcpServer.hpp} Get New Link! IP:[111.246.31.194] Port:[20885] SOCK:[7]
+[INFO] {41:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7fff6ef3b560]
+[INFO] {31:TcpServer.hpp} Singleton Tcp Server Create Success! 0x55e75ef68eb0
+[error_code] {../log.hpp:73} (Address already in use)
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7fffd332c290]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x562a712c8eb0
+[error_code] {../log.hpp:73} (Address already in use)
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffe83be6500]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x556cb3bb6eb0
+[error_code] {../log.hpp:73} (Permission denied)
+[DEBUG] {229:HttpTask.hpp} CgiHandler: Start Processing!
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/wxc_resume.html] file_size: [0] isCgi: [1]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/wxc_resume.html] argument: [name=]
+[DEBUG] {85:HttpTask.hpp} uri_path: [/wxc_resume.html] argument: [name=]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[32]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[52885] SOCK:[32]
+[DEBUG] {219:HttpUtil.hpp} sock: [10] fd: [43] file_size: [688] actually sent: [688]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 688
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [0] isCgi: [0]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/index.html] argument: []
+[DEBUG] {85:HttpTask.hpp} uri_path: [/] argument: []
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[27]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[8157] SOCK:[27]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[10]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[3884] SOCK:[10]
+[DEBUG] {219:HttpUtil.hpp} sock: [7] fd: [25] file_size: [684] actually sent: [684]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 684
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [0] isCgi: [0]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/index.html] argument: []
+[DEBUG] {85:HttpTask.hpp} uri_path: [/] argument: []
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[20162] SOCK:[7]
+[INFO] {44:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7fff5db8c7b0]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x56480613deb0
+[error_code] {../log.hpp:73} (Permission denied)
+[DEBUG] {229:HttpTask.hpp} CgiHandler: Start Processing!
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/wxc_resume.html] file_size: [0] isCgi: [1]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/wxc_resume.html] argument: [name=]
+[DEBUG] {85:HttpTask.hpp} uri_path: [/wxc_resume.html] argument: [name=]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[45]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[27741] SOCK:[45]
+[DEBUG] {219:HttpUtil.hpp} sock: [27] fd: [60] file_size: [688] actually sent: [688]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 688
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[WARNING] {35:HttpTask.hpp} ParseHttpRequest failed!
+[DEBUG] {229:HttpTask.hpp} CgiHandler: Start Processing!
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/wxc_resume.html] file_size: [0] isCgi: [1]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/wxc_resume.html] argument: [name=]
+[DEBUG] {85:HttpTask.hpp} uri_path: [/wxc_resume.html] argument: [name=]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[32]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[52885] SOCK:[32]
+[DEBUG] {219:HttpUtil.hpp} sock: [10] fd: [43] file_size: [688] actually sent: [688]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 688
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [0] isCgi: [0]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/index.html] argument: []
+[DEBUG] {85:HttpTask.hpp} uri_path: [/] argument: []
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[27]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[8157] SOCK:[27]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[10]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[3884] SOCK:[10]
+[DEBUG] {219:HttpUtil.hpp} sock: [7] fd: [25] file_size: [684] actually sent: [684]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 684
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [0] isCgi: [0]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/index.html] argument: []
+[DEBUG] {85:HttpTask.hpp} uri_path: [/] argument: []
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[20162] SOCK:[7]
+[INFO] {44:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7fff5db8c7b0]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x56480613deb0
+[error_code] {../log.hpp:73} (Permission denied)
+[DEBUG] {229:HttpTask.hpp} CgiHandler: Start Processing!
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/wxc_resume.html] file_size: [0] isCgi: [1]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/wxc_resume.html] argument: [name=]
+[DEBUG] {85:HttpTask.hpp} uri_path: [/wxc_resume.html] argument: [name=]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[39]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[52911] SOCK:[39]
+[DEBUG] {219:HttpUtil.hpp} sock: [7] fd: [50] file_size: [688] actually sent: [688]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 688
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/index.html] file_size: [0] isCgi: [0]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/index.html] argument: []
+[DEBUG] {85:HttpTask.hpp} uri_path: [/] argument: []
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[17]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[5784] SOCK:[17]
+[DEBUG] {219:HttpUtil.hpp} sock: [10] fd: [37] file_size: [688] actually sent: [688]
+[DEBUG] {186:HttpUtil.hpp} SendLine: 
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Length: 688
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Content-Type: text/html
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: Host: 219.144.185.230
+
+[DEBUG] {186:HttpUtil.hpp} SendLine: HTTP/1.0 200 OK
+
+[WARNING] {35:HttpTask.hpp} ParseHttpRequest failed!
+[DEBUG] {320:HttpTask.hpp} Cgi Response Body: 
+[WARNING] {273:HttpUtil.hpp} fd[28] close on 
+[DEBUG] {264:HttpUtil.hpp} Get Block: total = [1] read = [0] left = [1]
+[DEBUG] {229:HttpTask.hpp} CgiHandler: Start Processing!
+[DEBUG] {107:HttpTask.hpp} After adjust: uri_path: [wwwroot/calculator_cgi] file_size: [0] isCgi: [1]
+[DEBUG] {94:HttpTask.hpp} uri_path: [wwwroot/calculator_cgi] argument: [a=1&op=%2B&b=10]
+[DEBUG] {85:HttpTask.hpp} uri_path: [/calculator_cgi] argument: [a=1&op=%2B&b=10]
+[DEBUG] {264:HttpUtil.hpp} Get Block: total = [15] read = [15] left = [0]
+[DEBUG] {92:Protocol.hpp} Request Body Size: 15
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[10]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[8919] SOCK:[10]
+[DEBUG] {24:HttpTask.hpp} Thread #0: sock[7]
+[DEBUG] {88:ThreadPool.hpp} Thread #0 GetTask Success!
+[DEBUG] {40:ThreadPool.hpp} new task add to threadpool!
+[INFO] {127:TcpServer.hpp} Get New Link! IP:[219.144.185.230] Port:[8914] SOCK:[7]
+[INFO] {44:TcpServer.hpp} Tcp Server Init Success!
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffc1b02c110]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x55f831b61eb0
+[error_code] {../log.hpp:73} (Address already in use)
+[INFO] {28:ThreadPool.hpp} Thread Pool Create Success! [0x7ffe0064fd50]
+[INFO] {32:TcpServer.hpp} Singleton Tcp Server Create Success! 0x556439134eb0
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [17] read = [17] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [17] read = [17] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [0] left = [1]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [0] left = [1]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[DEBUG] {264:cgi/../HttpUtil.hpp} Get Block: total = [1] read = [1] left = [0]
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
+[WARNING] {273:cgi/../HttpUtil.hpp} fd[0] close on 
